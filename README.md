@@ -65,7 +65,7 @@ $ cmake -G 'Unix Makefiles' . ~/.vim/bundle/YouCompleteMe/cpp
 $ make ycm_support_libs
 ```
 Comments: 
-if hit something like could not find pythonlibs (missing python_libraries python_include_dirs)",
+if hit something like "could not find pythonlibs (missing python_libraries python_include_dirs)",
 for example, on ubuntu you need install python-dev
 ```sh
 $ sudo apt-get install python-dev
