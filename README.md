@@ -70,5 +70,3 @@ for example, on ubuntu you need install python-dev
 ```sh
 $ sudo apt-get install python-dev
 ```
-
-push.default test
